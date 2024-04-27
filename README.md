@@ -1,1 +1,2 @@
 # myWebpage
+npm run deploy
